@@ -1,0 +1,28 @@
+/* colorea la seccion login */
+.user-icon img {
+	border: 2px solid #a2010d;
+	border-radius: 50%; /* Esto hace que el contorno sea circular */
+}
+
+a {
+  color: #ff6600;
+}
+a:hover {
+  color: #a2010d;
+  text-decoration: none; 
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+.btn-active {
+  background-color: #a2010d;
+  color: #fff; /* Color de texto blanco */
+}
+.btn-active:hover {
+  color: #fff; /* Cambiar el color del texto a blanco al pasar el puntero sobre el botón */
+  background-color: #BF010F;
+}
+	
